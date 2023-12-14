@@ -62,7 +62,7 @@
 </p> -->
 
 <p align="center">
-<a href="https://linkedin.com/in/abdurrahman-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdur" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mritunjay-pratap-singh-337629225/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mritunjay" height="30" width="30" /></a>
 </p>
 
 
