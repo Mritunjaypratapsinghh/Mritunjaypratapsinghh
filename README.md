@@ -40,11 +40,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Hack_%28programming_language%29_logo.svg" alt="hack" width="40" height="40"/> 
 </p>
 
-#### Devops
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</p>
 
 #### Source Control
 <p align="left">
