@@ -3,10 +3,10 @@
 
 <!-- - 👨🏻‍💻 I work at **Lowe's India** -->
 - 🤝 Previously, I interned at **Coding Ninjas**
-- ➕➖✖️➗ Practising algorithms is a long-term investment, I do it [everyday](https://leetcode.com/Abdur_Rahman_Khan/)
+- ➕➖✖️➗ Practising algorithms is a long-term investment, I do it [everyday](https://leetcode.com/mritunjayyy/)
 - 🏃🏻 As well as competitions,  ...etc
 - 🎮 Feel free to explore around my github, 
-- 😉 Life is short, I am always looking for [new opportunities](https://www.linkedin.com/in/abdurrahman-khan/)
+- 😉 Life is short, I am always looking for [new opportunities](https://www.linkedin.com/in/mritunjay-pratap-singh-337629225/)
 
 
 <p align="left">
@@ -66,15 +66,3 @@
 </p>
 
 
-
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" />
-  <img src="https://badges.pufler.dev/years/calvinchankf" alt="calvinchankf" />
-  <img src="https://badges.pufler.dev/commits/monthly/calvinchankf" alt="calvinchankf" />
-</p> -->
-
-<!---
-Abdur-Rahman-Khan/Abdur-Rahman-Khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
