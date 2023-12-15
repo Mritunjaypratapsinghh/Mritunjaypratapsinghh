@@ -24,6 +24,7 @@
 <!-- My Tech Stack -->
 ### My Tech Stack
 
+
 #### Frontend
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
@@ -38,8 +39,15 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Hack_%28programming_language%29_logo.svg" alt="hack" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="flask" width="40" height="40"/>  <!-- Added Flask -->
 </p>
 
+#### Database
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/>  <!-- Added MongoDB -->
+</p>
 
 #### Source Control
 <p align="left">
