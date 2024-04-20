@@ -11,7 +11,7 @@
 
 <!-- About Me -->
 - 🤝 Previously, I interned at **Coding Ninjas**
-- 🚀 Currently working at **Coding Ninjas**
+- 🚀 Currently working at **Spacepe**
 - 🧠 Practicing algorithms is a daily routine, and you can find my progress on [LeetCode](https://leetcode.com/mritunjayyy/)
 - 🏃 Participating in coding competitions and more
 - 🎮 Feel free to explore my GitHub, and don't forget to check out the octocat animation on the right! 😉
