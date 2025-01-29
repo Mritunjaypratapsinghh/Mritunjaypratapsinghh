@@ -77,7 +77,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mritunjay-pratap-singh-337629225/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mritunjay" height="30" width="30" />
-  </a>
+    </a>
   <a href="https://leetcode.com/mritunjayyy/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/leetcode/leetcode-ar21.svg" alt="leetcode" height="30" width="30" />
   </a>
@@ -85,5 +85,5 @@
 
 <!-- Call to Action -->
 <p align="center">
-  😊 Life is short, and I'm always open to [new opportunities](https://www.linkedin.com/in/mritunjay-pratap-singh-337629225/)!
+  😊 Life is short, and I'm always open to [new opportunities](https://www.linkedin.com/in/mritunjaypratapsinghh/)!
 </p>
