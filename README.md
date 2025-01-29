@@ -78,8 +78,8 @@
   <a href="https://www.linkedin.com/in/mritunjay-pratap-singh-337629225/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mritunjay" height="30" width="30" />
     </a>
-  <a href="https://leetcode.com/mritunjayyy/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/leetcode/leetcode-ar21.svg" alt="leetcode" height="30" width="30" />
+  <a href="https://leetcode.com/mritunjayprarapsinghh/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/LeetCode_logo.png" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
 
