@@ -87,3 +87,6 @@
 <p align="center">
   😊 Life is short, and I'm always open to [new opportunities](https://www.linkedin.com/in/mritunjaypratapsinghh/)!
 </p>
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mritunjaypratapsinghh&show_icons=true&theme=radical)
+</p>
