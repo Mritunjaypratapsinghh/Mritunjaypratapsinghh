@@ -1,92 +1,27 @@
-<!-- Title -->
-<h1 align="center">Hello World! 👋 I'm Mritunjay Pratap Singh</h1>
+# 💫 About Me:
+<br>- 🚀 Currently working at **Spacepe India**<br>- 🧠 Practicing algorithms is a daily routine, and you can find my progress on [LeetCode](https://leetcode.com/mritunjaypratapsinghh/)<br>- 🏃 Participating in coding competitions and more<br>- 🎮 Feel free to explore my GitHub
 
-<!-- Subtitle -->
-<h3 align="center">Software Engineer from India</h3>
 
-<!-- Introduction -->
-<p align="center">
-  Hey there! I'm a software engineer based in India, always eager to learn and explore new technologies.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mritunjaypratapsinghh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mritunjaypratapsinghh@gmail.com) 
 
-<!-- About Me -->
-- 🤝 Previously, I interned at **Coding Ninjas**
-- 🚀 Currently working at **Spacepe India**
-- 🧠 Practicing algorithms is a daily routine, and you can find my progress on [LeetCode](https://leetcode.com/mritunjaypratapsinghh/)
-- 🏃 Participating in coding competitions and more
-- 🎮 Feel free to explore my GitHub, and don't forget to check out the octocat animation on the right! 😉
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mritunjaypratapsinghh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mritunjaypratapsinghh&theme=default_repocard&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaypratapsinghh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- GIF -->
-<p align="right">
-  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mritunjaypratapsinghh&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
-### My Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### Frontend
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> 
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mritunjaypratapsinghh&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-#### Backend
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=mritunjaypratapsinghh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### Database
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
-</p>
-
-#### DevOps & Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</p>
-
-#### Testing
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
-</p>
-
-#### Source Control
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-
-<!-- Connect with Me -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mritunjay-pratap-singh-337629225/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mritunjay" height="30" width="30" />
-    </a>
-  <a href="https://leetcode.com/mritunjayprarapsinghh/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/LeetCode_logo.png" alt="LeetCode" height="30" width="30" />
-  </a>
-</p>
-
-<!-- Call to Action -->
-<p align="center">
-  😊 Life is short, and I'm always open to [new opportunities](https://www.linkedin.com/in/mritunjaypratapsinghh/)!
-</p>
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mritunjaypratapsinghh&show_icons=true&theme=radical)
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
