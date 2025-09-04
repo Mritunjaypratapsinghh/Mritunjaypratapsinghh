@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🚀 Currently working at **Spacepe India**<br>- 🧠 Practicing algorithms is a daily routine, and you can find my progress on [LeetCode](https://leetcode.com/mritunjaypratapsinghh/)<br>- 🏃 Participating in coding competitions and more<br>- 🎮 Feel free to explore my GitHub
+<br>- 🚀 Currently working at **Spacepe India**<br>- 🧠 Practicing algorithms is a daily routine, and you can find my progress on [LeetCode](https://leetcode.com/mritunjaypratapsinghh/)<br>- 🏃 Participating in coding competitions and more<br>- 🎮 Feel free to explore my GitHub
 
 
 ## 🌐 Socials:
