@@ -88,8 +88,8 @@ NACH • Cheques • Reversals
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mritunjaypratapsinghh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b61ff&text_color=c9d1d9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mritunjaypratapsinghh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7b61ff&currStreakLabel=00d4ff" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mritunjaypratapsinghh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b61ff&text_color=c9d1d9" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Mritunjaypratapsinghh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7b61ff&currStreakLabel=00d4ff" />
 
 </div>
 
@@ -97,7 +97,7 @@ NACH • Cheques • Reversals
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mritunjaypratapsinghh&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=7b61ff&point=00d4ff&area=true&area_color=7b61ff" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mritunjaypratapsinghh&theme=github_dark" width="95%"/>
 
 </div>
 
