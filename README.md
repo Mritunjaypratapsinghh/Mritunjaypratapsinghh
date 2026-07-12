@@ -1,27 +1,55 @@
-# 💫 About Me:
-<br>- 🚀 Currently working at **Spacepe India**<br>- 🧠 Practicing algorithms is a daily routine, and you can find my progress on [LeetCode](https://leetcode.com/mritunjaypratapsinghh/)<br>- 🏃 Participating in coding competitions and more<br>- 🎮 Feel free to explore my GitHub
+<div align="center">
 
+# Mritunjay Pratap Singh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mritunjaypratapsinghh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mritunjaypratapsinghh@gmail.com) 
+**Backend Software Engineer** — Building the invisible infrastructure that keeps a financial company running.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mritunjaypratapsinghh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mritunjaypratapsinghh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaypratapsinghh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mritunjay.dev-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://mritunjay.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mritunjay-pratap-singh)
+[![Email](https://img.shields.io/badge/Email-mritunjayps0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mritunjayps0@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mritunjaypratapsinghh&theme=aura&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mritunjaypratapsinghh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mritunjaypratapsinghh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I Do
+
+I build backend systems that process **100K+ messages daily**, route **10K+ calls**, and handle payment transactions — all with **zero downtime**. Currently at [Kogta Financial (India) Ltd](https://kogtafinance.com), working on communication infrastructure and fintech automation.
+
+### Systems I've Built
+
+| System | What It Does | Scale |
+|--------|-------------|-------|
+| **Communication Aggregator** | Unified messaging across WhatsApp, SMS, RCS | 100K+ msgs/day, ₹50Cr+ collections enabled |
+| **Multi-Vendor Dialer** | Vendor-agnostic calling platform with IVR | 10K+ calls/day, 40% cost reduction |
+| **Receivable Engine** | Payment reconciliation — NACH, cheques, reversals | 99.99% accuracy, 80% less manual work |
+
+### Tech Stack
+
+```
+Languages    Python, TypeScript
+Frameworks   FastAPI, Django, Next.js
+Databases    MongoDB, PostgreSQL, Redis
+Cloud        AWS (SQS, S3, Lambda, EKS), Docker, Kubernetes
+Tools        Git, Jenkins, ArgoCD, OpenSearch
+```
+
+### Numbers
+
+```
+99.9%   Uptime across all production systems
+40+     REST APIs in production
+6+      End-to-end systems built & deployed
+500+    Problems solved (LeetCode)
+Zero    Downtime on critical payment systems
+```
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mritunjaypratapsinghh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true)
+
+*Open to backend/platform engineering opportunities — [let's talk](https://mritunjay.dev#contact)*
+
+</div>
